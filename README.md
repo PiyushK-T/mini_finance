@@ -260,3 +260,8 @@ Note: Minor update for GitHub assignment.
 This project demonstrates Git operations like clone, pull, push, and creating a Pull Request—a hands-on Mini-Finance tool.
 
 
+### Footer Deployment History
+- 07 Oct 2025: Added static footer with version
+- 08 Oct 2025: Made date dynamic
+- 09 Oct 2025: Polished style & accessibility
+- 10 Oct 2025: Added commit hash / health check
